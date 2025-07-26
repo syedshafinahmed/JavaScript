@@ -6,3 +6,6 @@ console.log(address);
 var isRich = true;
 console.log(isRich);
 console.log(typeof isRich);
+//  comment
+
+
